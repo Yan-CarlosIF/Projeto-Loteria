@@ -1,4 +1,4 @@
-# Projeto: Sistema de Gerenciamento de Loteria
+# Sistema de Gerenciamento de Loteria
 
 ## Descrição Geral
 Este projeto implementa um sistema para gerenciar uma loteria, organizando os clientes em filas e pilhas, registrando suas apostas, armazenando os resultados e identificando os vencedores com base em um sistema de prioridades. O projeto é dividido em três partes principais: gerenciamento de filas para registrar os clientes, estruturação de pilhas para armazenar as apostas e o sorteio dos resultados utilizando filas de prioridade.
